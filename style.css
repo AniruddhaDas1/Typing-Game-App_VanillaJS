@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: black;
+  color: aqua;
+}
+
+/* .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} */
+
+.time{
+    color: yellow;
+}
+
+#hr{
+    border: 1px aqua solid;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: red;
+}
+
+#min{
+    border: 1px aqua solid;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: red;
+}
+
+#sec{
+    border: 1px aqua solid;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: red;
+}
